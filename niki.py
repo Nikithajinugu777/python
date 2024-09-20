@@ -10,3 +10,8 @@ multi(8,4)
 def div(a,b):
  print(a/b)
 div(8,4)
+#output
+12
+4
+32
+2.0
